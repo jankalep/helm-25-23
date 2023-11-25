@@ -167,3 +167,4 @@ spec:
       targetPort: {{ .Values.service.jport }}
   selector:
     app: {{ .Values.name }}
+

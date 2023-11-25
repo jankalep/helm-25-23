@@ -3,12 +3,62 @@ entries:
   jenkins:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-25T13:35:08.010718441-05:00"
+    created: "2023-11-25T16:37:20.695816946-05:00"
     description: A Helm chart for Kubernetes
-    digest: fedb0e1964dc7d0a6d2e6746c199e529bf915c031d3c3f0238bc001e988ee9e6
+    digest: be4bcfd4d59114171b627ab20496cb1aad38f8cb9e8b050cc27f1790e7230dd8
     name: jenkins
     type: application
     urls:
-    - https://github.com/jankalep/helm-25-23/helm-releases/jenkins-0.1.0.tgz
+    - helm-releases/jenkins-0.2.6.tgz
+    version: 0.2.6
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-25T16:37:20.694743972-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 6fd68a3191dbe536ddab52af24fdcb4f97342e7d80f7d4b285eb53126d816183
+    name: jenkins
+    type: application
+    urls:
+    - helm-releases/jenkins-0.2.5.tgz
+    version: 0.2.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-25T16:37:20.692821489-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 644a97c908992aac1ccf190c745127a63113e260307f50ba043002892b43031e
+    name: jenkins
+    type: application
+    urls:
+    - helm-releases/jenkins-0.2.3.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-25T16:37:20.690672478-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 795a41c5a4f913c0eaf5b093fe863409d97f8291ae7bcbfddc50b25c987a9365
+    name: jenkins
+    type: application
+    urls:
+    - helm-releases/jenkins-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-25T13:35:08.009402364-05:00"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-25T16:37:20.691834043-05:00"
+    description: A Helm chart for Kubernetes
+    digest: efcc8a09dc662cc4e33fa7b6370b71df47327d06d596f1c1c31adc7652d48d68
+    name: jenkins
+    type: application
+    urls:
+    - helm-releases/jenkins-0.2.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-25T16:37:20.693809648-05:00"
+    description: A Helm chart for Kubernetes
+    digest: fefc53def4eb90cb686c432e82c467ca0ed04dd7e30217fab83a440a49d11163
+    name: jenkins
+    type: application
+    urls:
+    - helm-releases/jenkins-0.2.4.tgz
+    version: 0.1.0
+generated: "2023-11-25T16:37:20.689519104-05:00"
