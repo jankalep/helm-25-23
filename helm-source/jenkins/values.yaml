@@ -10,7 +10,7 @@ image:
   repository: jfrog.it-academy.by/public/jenkins-ci
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "uldz"
+  tag: "pivanchuk"
 
 imagePullSecrets: []
 nameOverride: ""
@@ -93,7 +93,7 @@ JenkinsConfig: "/var/jenkins_home"
 
 nfs:
   server: 192.168.37.105
-  path: "/mnt/IT-Academy/nfs-data/sa2-25-23/Uladislau_Krejzo/jenkins"
+  path: "/mnt/IT-Academy/nfs-data/sa2-25-23/Ivanchuk_Pavel/jenkins"
   readOnly: false
   vers: 3
 
@@ -102,3 +102,4 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
