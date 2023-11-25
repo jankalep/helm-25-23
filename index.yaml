@@ -3,32 +3,12 @@ entries:
   jenkins:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-25T13:02:42.935557673-05:00"
+    created: "2023-11-25T13:35:08.010718441-05:00"
     description: A Helm chart for Kubernetes
     digest: fedb0e1964dc7d0a6d2e6746c199e529bf915c031d3c3f0238bc001e988ee9e6
     name: jenkins
     type: application
     urls:
     - https://github.com/jankalep/helm-25-23/helm-releases/jenkins-0.1.0.tgz
-    version: 0.2.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-11-25T13:02:42.936324923-05:00"
-    description: A Helm chart for Kubernetes
-    digest: 3414e511dc89a33bbd10d4210b0a56bea8172d0f783522cf0e31fb85c2239533
-    name: jenkins
-    type: application
-    urls:
-    - https://github.com/jankalep/helm-25-23/helm-releases/jenkins-0.2.1.tgz
-    version: 0.2.2
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-11-25T13:02:42.937193207-05:00"
-    description: A Helm chart for Kubernetes
-    digest: 160cd003e3c62cf9e586ac5178b0146bfd6594d475fb9ae3fa3cac3635d7ef86
-    name: jenkins
-    type: application
-    urls:
-    - https://github.com/jankalep/helm-25-23/helm-releases/jenkins-0.2.2.tgz
-    version: 0.2.3
-generated: "2023-11-25T13:02:42.934430906-05:00"
+    version: 0.1.0
+generated: "2023-11-25T13:35:08.009402364-05:00"
