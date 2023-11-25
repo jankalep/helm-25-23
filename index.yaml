@@ -9,6 +9,6 @@ entries:
     name: jenkins
     type: application
     urls:
-    - https://jankalep.github.io/helm-25-23/helm-releases/jenkins-0.1.0.tgz
-    version: 0.2.0
+    - https://jankalep.github.io/helm-25-23/helm-releases/jenkins-0.2.1.tgz
+    version: 0.2.1
 generated: "2023-11-25T09:40:38.347062414-05:00"
